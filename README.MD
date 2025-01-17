@@ -11,10 +11,7 @@
 
 
 <p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
+
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
