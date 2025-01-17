@@ -59,14 +59,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-   
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src=""
+    />
     <p>&nbsp&nbsp&nbspTiago Rocha de Almeida<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/tiagorochadealmeida">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/tiago-rocha-de-almeida-2252394b/">LinkedIn</a>
-&nbsp;|&nbsp;
-    
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
