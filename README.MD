@@ -37,29 +37,12 @@ ChatGPT： A imagem de abertura do pdf foi gerada usando o modelo DALL·E, uma i
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| conteúdo | Aja como um designer e gere uma imagem para uma cartilha que reúna Jovens (15 - 29 anos) 
-Microempreendedores Individuais, Microempresários e Empresários de Pequeno Porte
-Mulheres
-Pessoas com Deficiência (PcD)
-Pessoas em Situação de Vulnerabilidade Social
-Pessoas Gestantes, Puérperas e Recém-nascidas
-Pessoas LGBTQIA+
-Pessoas Neurodivergentes
-População em Geral
-População em Situação de Rua
-Populações de Assentamentos Rurais
-Populações de Favelas, Assentamentos Urbanos, Núcleos Urbanos Informais e outros Territórios Urbanos Periféricos
-Populações de Fronteira ou Regiões Brasileiras de Desenvolvimento
-Populações e Setores Econômicos atingidos por Alterações no Meio Ambiente ou Clima; Eventos ou Fenômenos Climáticos; Desastres Ambientais
-Populações Negras
+| conteúdo | Aja como um designer e gere uma imagem para uma cartilha que reúna Jovens (15 - 29 anos),Microempreendedores Individuais, Microempresários e Empresários de Pequeno Porte,Mulheres,Pessoas com Deficiência (PcD),Pessoas em Situação de Vulnerabilidade Social,Pessoas Gestantes, Puérperas e Recém-nascidas,Pessoas LGBTQIA+,Pessoas Neurodivergentes,População em Geral,População em Situação de Rua,Populações de Assentamentos Rurais,Populações de Favelas, Assentamentos Urbanos, Núcleos Urbanos Informais e outros Territórios Urbanos Periféricos,Populações de Fronteira ou Regiões Brasileiras de Desenvolvimento
+Populações e Setores Econômicos atingidos por Alterações no Meio Ambiente ou Clima, Eventos ou Fenômenos Climáticos, Desastres Ambientais,Populações Negras
 Populações Rurais |
 
 
 Midjourney：Acessei o midjourney mas como requeria pagamento, não realizei a etapa de geração de imagem por ele, mas alternativamente pelo chatgpt. 
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título |  |
 
 ## ✨ Features
 
