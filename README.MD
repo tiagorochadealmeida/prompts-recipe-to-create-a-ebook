@@ -35,8 +35,8 @@ seguem abaixo.
 
 ChatGPT： A imagem de abertura do pdf foi gerada usando o modelo DALL·E, uma inteligência artificial especializada na criação de imagens a partir de descrições textuais. Ele utiliza um modelo de aprendizado profundo treinado para interpretar detalhes de um texto e traduzi-los em representações visuais.
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                     |
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
 | conteúdo | Aja como um designer e gere uma imagem para uma cartilha que reúna Jovens (15 - 29 anos) 
 Microempreendedores Individuais, Microempresários e Empresários de Pequeno Porte
 Mulheres
